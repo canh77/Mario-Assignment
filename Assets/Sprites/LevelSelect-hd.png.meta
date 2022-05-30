@@ -1,0 +1,2880 @@
+fileFormatVersion: 2
+guid: 036a61273e572294e915da88062491ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8835792650162330894
+    second: LevelSelect-hd_0
+  - first:
+      213: 7780147065780609890
+    second: LevelSelect-hd_1
+  - first:
+      213: 4680325276658782810
+    second: LevelSelect-hd_2
+  - first:
+      213: 3968221275768620360
+    second: LevelSelect-hd_3
+  - first:
+      213: -7006899687444451262
+    second: LevelSelect-hd_4
+  - first:
+      213: 1371741326053953895
+    second: LevelSelect-hd_5
+  - first:
+      213: -3096783807145089731
+    second: LevelSelect-hd_6
+  - first:
+      213: 2549425286042858374
+    second: LevelSelect-hd_7
+  - first:
+      213: -2793277807161227294
+    second: LevelSelect-hd_8
+  - first:
+      213: 2319204951936352542
+    second: LevelSelect-hd_9
+  - first:
+      213: -1852900635982894214
+    second: LevelSelect-hd_10
+  - first:
+      213: -2324588084591789527
+    second: LevelSelect-hd_11
+  - first:
+      213: -4919985927647639683
+    second: LevelSelect-hd_12
+  - first:
+      213: 3655072182494542203
+    second: LevelSelect-hd_13
+  - first:
+      213: -5030136020813262519
+    second: LevelSelect-hd_14
+  - first:
+      213: -2950144877071030009
+    second: LevelSelect-hd_15
+  - first:
+      213: 8721766684477396969
+    second: LevelSelect-hd_16
+  - first:
+      213: 7372260296824930669
+    second: LevelSelect-hd_17
+  - first:
+      213: 5666541697773103872
+    second: LevelSelect-hd_18
+  - first:
+      213: 731393091530222981
+    second: LevelSelect-hd_19
+  - first:
+      213: -1419856824886531104
+    second: LevelSelect-hd_20
+  - first:
+      213: -4203162543176917595
+    second: LevelSelect-hd_21
+  - first:
+      213: -4414728327532352722
+    second: LevelSelect-hd_22
+  - first:
+      213: 3930724751803289504
+    second: LevelSelect-hd_23
+  - first:
+      213: 5989535876190213723
+    second: LevelSelect-hd_24
+  - first:
+      213: 7967500771228130643
+    second: LevelSelect-hd_25
+  - first:
+      213: -6518586341389670306
+    second: LevelSelect-hd_26
+  - first:
+      213: -6437094715661489948
+    second: LevelSelect-hd_27
+  - first:
+      213: 1960982050356830199
+    second: LevelSelect-hd_28
+  - first:
+      213: -6495769061249368779
+    second: LevelSelect-hd_29
+  - first:
+      213: 1700305198586749883
+    second: LevelSelect-hd_30
+  - first:
+      213: -1519793736278161675
+    second: LevelSelect-hd_31
+  - first:
+      213: -474998834631367185
+    second: LevelSelect-hd_32
+  - first:
+      213: 7705471951745564790
+    second: LevelSelect-hd_33
+  - first:
+      213: -6618393479069669314
+    second: LevelSelect-hd_34
+  - first:
+      213: 5240762777771894388
+    second: LevelSelect-hd_35
+  - first:
+      213: 5907133593695944162
+    second: LevelSelect-hd_36
+  - first:
+      213: -4994452981541808022
+    second: LevelSelect-hd_37
+  - first:
+      213: -7902326762877775053
+    second: LevelSelect-hd_38
+  - first:
+      213: -2489278586504510377
+    second: LevelSelect-hd_39
+  - first:
+      213: -6342958091848830562
+    second: LevelSelect-hd_40
+  - first:
+      213: 4114846268573117943
+    second: LevelSelect-hd_41
+  - first:
+      213: 4550665080912169536
+    second: LevelSelect-hd_42
+  - first:
+      213: 3874312496971741102
+    second: LevelSelect-hd_43
+  - first:
+      213: 6773117738469784350
+    second: LevelSelect-hd_44
+  - first:
+      213: 1997756052922333123
+    second: LevelSelect-hd_45
+  - first:
+      213: -2651546097233674488
+    second: LevelSelect-hd_46
+  - first:
+      213: 8774978197926931439
+    second: LevelSelect-hd_47
+  - first:
+      213: -8061513558355539198
+    second: LevelSelect-hd_48
+  - first:
+      213: 8639091256151406925
+    second: LevelSelect-hd_49
+  - first:
+      213: -7253763969146510179
+    second: LevelSelect-hd_50
+  - first:
+      213: 6947041818942176969
+    second: LevelSelect-hd_51
+  - first:
+      213: 8739818709339980293
+    second: LevelSelect-hd_52
+  - first:
+      213: -4131715761451355023
+    second: LevelSelect-hd_53
+  - first:
+      213: -8843159350115184444
+    second: LevelSelect-hd_54
+  - first:
+      213: 2174700199453298550
+    second: LevelSelect-hd_55
+  - first:
+      213: 1069366079039379858
+    second: LevelSelect-hd_56
+  - first:
+      213: 6169646428736103760
+    second: LevelSelect-hd_57
+  - first:
+      213: 3831822810594736398
+    second: LevelSelect-hd_58
+  - first:
+      213: -659760593249326609
+    second: LevelSelect-hd_59
+  - first:
+      213: -2945285394417848996
+    second: LevelSelect-hd_60
+  - first:
+      213: 4965009247085968571
+    second: LevelSelect-hd_61
+  - first:
+      213: 5297579809552949767
+    second: LevelSelect-hd_62
+  - first:
+      213: 7504651572700845797
+    second: LevelSelect-hd_63
+  - first:
+      213: -1659685114904423017
+    second: LevelSelect-hd_64
+  - first:
+      213: 5112189129024771656
+    second: LevelSelect-hd_65
+  - first:
+      213: -7547533087230785212
+    second: LevelSelect-hd_66
+  - first:
+      213: -5768853719770785338
+    second: LevelSelect-hd_67
+  - first:
+      213: -5378576700922358465
+    second: LevelSelect-hd_68
+  - first:
+      213: 2297152221003902802
+    second: LevelSelect-hd_69
+  - first:
+      213: -2018500550735165921
+    second: LevelSelect-hd_70
+  - first:
+      213: 3443026491992394869
+    second: LevelSelect-hd_71
+  - first:
+      213: -5790461298361095946
+    second: LevelSelect-hd_72
+  - first:
+      213: 8521797478172887173
+    second: LevelSelect-hd_73
+  - first:
+      213: -8409207172166082266
+    second: LevelSelect-hd_74
+  - first:
+      213: -3567668388430558197
+    second: LevelSelect-hd_75
+  - first:
+      213: -7621301816093962547
+    second: LevelSelect-hd_76
+  - first:
+      213: -745691388608540008
+    second: LevelSelect-hd_77
+  - first:
+      213: -8147449367540374681
+    second: LevelSelect-hd_78
+  - first:
+      213: 8670571794943761376
+    second: LevelSelect-hd_79
+  - first:
+      213: -4993526180740210883
+    second: LevelSelect-hd_80
+  - first:
+      213: -2124398156864174930
+    second: LevelSelect-hd_81
+  - first:
+      213: 155678894261426542
+    second: LevelSelect-hd_82
+  - first:
+      213: -2100709116266280263
+    second: LevelSelect-hd_83
+  - first:
+      213: 142664465098331159
+    second: LevelSelect-hd_84
+  - first:
+      213: 1564387438144146499
+    second: LevelSelect-hd_85
+  - first:
+      213: -1474007554140806447
+    second: LevelSelect-hd_86
+  - first:
+      213: 9115753359704777599
+    second: LevelSelect-hd_87
+  - first:
+      213: 3644272383962125705
+    second: LevelSelect-hd_88
+  - first:
+      213: -7492887013846797438
+    second: LevelSelect-hd_89
+  - first:
+      213: 39104030640608388
+    second: LevelSelect-hd_90
+  - first:
+      213: -1097759696904132375
+    second: LevelSelect-hd_91
+  - first:
+      213: 4898812941315118436
+    second: LevelSelect-hd_92
+  - first:
+      213: 6865521691859149818
+    second: LevelSelect-hd_93
+  - first:
+      213: 1750204671082358910
+    second: LevelSelect-hd_94
+  - first:
+      213: 6431565819097290635
+    second: LevelSelect-hd_95
+  - first:
+      213: -401061350100986119
+    second: LevelSelect-hd_96
+  - first:
+      213: 3901960255055560581
+    second: LevelSelect-hd_97
+  - first:
+      213: -6963404190156193926
+    second: LevelSelect-hd_98
+  - first:
+      213: 4984872150217845105
+    second: LevelSelect-hd_99
+  - first:
+      213: -2201733963091382781
+    second: LevelSelect-hd_100
+  - first:
+      213: -6472601894768018148
+    second: LevelSelect-hd_101
+  - first:
+      213: -4782705924298615857
+    second: LevelSelect-hd_102
+  - first:
+      213: -1873544461405317657
+    second: LevelSelect-hd_103
+  - first:
+      213: 6029032566106732846
+    second: LevelSelect-hd_104
+  - first:
+      213: 7591503382336092657
+    second: LevelSelect-hd_105
+  - first:
+      213: 8325953533497828902
+    second: LevelSelect-hd_106
+  - first:
+      213: -4906959177381986124
+    second: LevelSelect-hd_107
+  - first:
+      213: -4049698604294993699
+    second: LevelSelect-hd_108
+  - first:
+      213: 5266175710446171782
+    second: LevelSelect-hd_109
+  - first:
+      213: 2587549476025529258
+    second: LevelSelect-hd_110
+  - first:
+      213: 3616889982256618805
+    second: LevelSelect-hd_111
+  - first:
+      213: 6842057100146413381
+    second: LevelSelect-hd_112
+  - first:
+      213: -29272671968318609
+    second: LevelSelect-hd_113
+  - first:
+      213: 4561944066781005956
+    second: LevelSelect-hd_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelSelect-hd_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1705
+        width: 803
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ddeede99a0f9a70800000000000000
+      internalID: 8835792650162330894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1851
+        width: 746
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a62c0982a8fb60800000000000000
+      internalID: 7780147065780609890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1663
+        width: 486
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52578caa0bd3f040800000000000000
+      internalID: 4680325276658782810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1708
+        width: 669
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845065cc934f11730800000000000000
+      internalID: 3968221275768620360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_4
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1711
+        width: 70
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f311cbdd72ce90800000000000000
+      internalID: -7006899687444451262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1520
+        width: 63
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7615b2fd777690310800000000000000
+      internalID: 1371741326053953895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1520
+        width: 63
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d356fece8830605d0800000000000000
+      internalID: -3096783807145089731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1520
+        width: 63
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683bbfb4ac0616320800000000000000
+      internalID: 2549425286042858374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1528
+        width: 518
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74c2142a84c39d0800000000000000
+      internalID: -2793277807161227294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1319
+        width: 453
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e114e79bd987f2020800000000000000
+      internalID: 2319204951936352542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_10
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1570
+        width: 288
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be42c40bc2946e0800000000000000
+      internalID: -1852900635982894214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_11
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1500
+        width: 68
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92afcc804776dbfd0800000000000000
+      internalID: -2324588084591789527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_12
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1291
+        width: 449
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7744a2bdd2b8bbb0800000000000000
+      internalID: -4919985927647639683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_13
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1616
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79bff9d8cc69b230800000000000000
+      internalID: 3655072182494542203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_14
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1501
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941578b90fd513ab0800000000000000
+      internalID: -5030136020813262519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_15
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1501
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7092e366ddafe07d0800000000000000
+      internalID: -2950144877071030009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_16
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1501
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79c12f690f90970800000000000000
+      internalID: 8721766684477396969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_17
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1501
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6147f71ea78f4660800000000000000
+      internalID: 7372260296824930669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_18
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1520
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b64b8c6a993ae40800000000000000
+      internalID: 5666541697773103872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_19
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1567
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d65d3442e662a00800000000000000
+      internalID: 731393091530222981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_20
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1459
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb69b09db7ab4ce0800000000000000
+      internalID: -1419856824886531104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_21
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1520
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad56b0bfed5ba5c0800000000000000
+      internalID: -4203162543176917595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1502
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6491f9fbbbb2c0800000000000000
+      internalID: -4414728327532352722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1301
+        width: 26
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af021df55dbc8630800000000000000
+      internalID: 3930724751803289504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1305
+        width: 556
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5696cd352b1f1350800000000000000
+      internalID: 5989535876190213723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1509
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d14b0ecbf329e60800000000000000
+      internalID: 7967500771228130643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_26
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1471
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5861cb62445985a0800000000000000
+      internalID: -6518586341389670306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1415
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e3771678daa6a0800000000000000
+      internalID: -6437094715661489948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_28
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1389
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff9f6af8cec63b10800000000000000
+      internalID: 1960982050356830199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_29
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1118
+        width: 351
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d324174746ad5a0800000000000000
+      internalID: -6495769061249368779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_30
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1425
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3638bc192b89710800000000000000
+      internalID: 1700305198586749883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1304
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c64926ab98eae0800000000000000
+      internalID: -1519793736278161675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1319
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a21993177869f0800000000000000
+      internalID: -474998834631367185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_33
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1380
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c78e2ae55fea60800000000000000
+      internalID: 7705471951745564790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_34
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1335
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e386a40523eb624a0800000000000000
+      internalID: -6618393479069669314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_35
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 939
+        width: 351
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476ee29cafdeab840800000000000000
+      internalID: 5240762777771894388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_36
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1291
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf505c4ba5af150800000000000000
+      internalID: 5907133593695944162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 623
+        width: 149
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a685fcb997320bab0800000000000000
+      internalID: -4994452981541808022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 655
+        width: 252
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3339b9f6dab455290800000000000000
+      internalID: -7902326762877775053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 728
+        width: 290
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548968705e447dd0800000000000000
+      internalID: -2489278586504510377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_40
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 761
+        width: 134
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91392ec83949f7a0800000000000000
+      internalID: -6342958091848830562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_41
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 928
+        width: 378
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd64af31eeda1930800000000000000
+      internalID: 4114846268573117943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_42
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1173
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a4b87d7c5372f30800000000000000
+      internalID: 4550665080912169536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_43
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 738
+        width: 357
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77bd260b254c530800000000000000
+      internalID: 3874312496971741102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_44
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1071
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b736792b2fefd50800000000000000
+      internalID: 6773117738469784350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_45
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1017
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7725aab8479bb10800000000000000
+      internalID: 1997756052922333123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_46
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1018
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f30d08fd0d33bd0800000000000000
+      internalID: -2651546097233674488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_47
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1017
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb6b3fdd2cf6c970800000000000000
+      internalID: 8774978197926931439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_48
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 963
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b09326120cf1090800000000000000
+      internalID: -8061513558355539198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_49
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 953
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d497611c9b734e770800000000000000
+      internalID: 8639091256151406925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_50
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 875
+        width: 160
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94ae762a14755b90800000000000000
+      internalID: -7253763969146510179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_51
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 888
+        width: 133
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef4d13ab9d86060800000000000000
+      internalID: 6947041818942176969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_52
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 891
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502c5838fc21a4970800000000000000
+      internalID: 8739818709339980293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_53
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 560
+        width: 378
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743fcdd76239a6c0800000000000000
+      internalID: -4131715761451355023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_54
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 904
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d5349c69c64580800000000000000
+      internalID: -8843159350115184444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_55
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 900
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f82613f461e2e10800000000000000
+      internalID: 2174700199453298550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_56
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 899
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999efb78c627de00800000000000000
+      internalID: 1069366079039379858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_57
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 359
+        width: 287
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a29e1dbcfe9550800000000000000
+      internalID: 6169646428736103760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_58
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 843
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09fcbb5b8e5d2530800000000000000
+      internalID: 3831822810594736398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_59
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 849
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a29a6c3f08d6f0800000000000000
+      internalID: -659760593249326609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_60
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 845
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5de39fd98e3027d0800000000000000
+      internalID: -2945285394417848996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_61
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 789
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb61fba9147e440800000000000000
+      internalID: 4965009247085968571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_62
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 795
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026fadd4c8c48940800000000000000
+      internalID: 5297579809552949767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_63
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 791
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e619e118d0e52860800000000000000
+      internalID: 7504651572700845797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_64
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 725
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7955e1f6e2d97f8e0800000000000000
+      internalID: -1659685114904423017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_65
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 699
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84692246de422f640800000000000000
+      internalID: 5112189129024771656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_66
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 735
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490a1d45a6c14790800000000000000
+      internalID: -7547533087230785212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_67
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 742
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c91fd74b1ae0ffa0800000000000000
+      internalID: -5768853719770785338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_68
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 741
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359458ccf47b55b0800000000000000
+      internalID: -5378576700922358465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 629
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fefef26cf11ef10800000000000000
+      internalID: 2297152221003902802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_70
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 629
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16008e8178dcf3e0800000000000000
+      internalID: -2018500550735165921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_71
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 642
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c477f3a5618cf20800000000000000
+      internalID: 3443026491992394869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_72
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 712
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f82a89d02624afa0800000000000000
+      internalID: -5790461298361095946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_73
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 358
+        width: 351
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588805ee7a1834670800000000000000
+      internalID: 8521797478172887173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_74
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 645
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621af5c71ae7c4b80800000000000000
+      internalID: -8409207172166082266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_75
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 662
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cc437c0881d7ec0800000000000000
+      internalID: -3567668388430558197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_76
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 684
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0eada062bb3690800000000000000
+      internalID: -7621301816093962547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_77
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 623
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929be502a5c6a5f0800000000000000
+      internalID: -745691388608540008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 623
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763664e97f17eee80800000000000000
+      internalID: -8147449367540374681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_79
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebd42ddb1f045870800000000000000
+      internalID: 8670571794943761376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_80
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 629
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fdd5c356e63bab0800000000000000
+      internalID: -4993526180740210883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_81
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 629
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4cd92c12f9482e0800000000000000
+      internalID: -2124398156864174930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_82
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 594
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e695a772125192200800000000000000
+      internalID: 155678894261426542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_83
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 598
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba06845038c8d2e0800000000000000
+      internalID: -2100709116266280263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_84
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 591
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d14c3398daf100800000000000000
+      internalID: 142664465098331159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_85
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 625
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c4aa52612d5b510800000000000000
+      internalID: 1564387438144146499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 294
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e13b60f54b8be0800000000000000
+      internalID: -1474007554140806447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 30
+        width: 309
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e6412269a18e70800000000000000
+      internalID: 9115753359704777599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_88
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 451
+        width: 161
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98514decc6e039230800000000000000
+      internalID: 3644272383962125705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_89
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 577
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283368db5fae30890800000000000000
+      internalID: -7492887013846797438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_90
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 524
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849e9f98ecea8000800000000000000
+      internalID: 39104030640608388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_91
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 523
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e9413f59f3c0f0800000000000000
+      internalID: -1097759696904132375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_92
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 192
+        width: 378
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4659c244a641cf340800000000000000
+      internalID: 4898812941315118436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_93
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 486
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e0098a9b374f50800000000000000
+      internalID: 6865521691859149818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_94
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 449
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e71810e9f94810800000000000000
+      internalID: 1750204671082358910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_95
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 311
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8796dc5903814950800000000000000
+      internalID: 6431565819097290635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_96
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 418
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f69716b3d42f6af0800000000000000
+      internalID: -401061350100986119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_97
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 387
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7742bd2c862630800000000000000
+      internalID: 3901960255055560581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_98
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 356
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff54268c40d5f90800000000000000
+      internalID: -6963404190156193926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_99
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e8744fc2dd2540800000000000000
+      internalID: 4984872150217845105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_100
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 219
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e660830aed171e0800000000000000
+      internalID: -2201733963091382781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_101
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 150
+        width: 61
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df4d9bed2bc26a0800000000000000
+      internalID: -6472601894768018148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_102
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 278
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3560d3d4a60adb0800000000000000
+      internalID: -4782705924298615857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_103
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 181
+        width: 46
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e519032d35dff5e0800000000000000
+      internalID: -1873544461405317657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_104
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 162
+        width: 48
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bd0afc2d6ba350800000000000000
+      internalID: 6029032566106732846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_105
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 160
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9b15fca107a5960800000000000000
+      internalID: 7591503382336092657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_106
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 35
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626eb8c30aabb8370800000000000000
+      internalID: 8325953533497828902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_107
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 35
+        width: 50
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0cdc850aaf6ebb0800000000000000
+      internalID: -4906959177381986124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_108
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 52
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd80a9b53949cc7c0800000000000000
+      internalID: -4049698604294993699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_109
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2
+        width: 139
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863fe148e6351940800000000000000
+      internalID: 5266175710446171782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_110
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 60
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3ff3df982d8e320800000000000000
+      internalID: 2587549476025529258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_111
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 61
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d13189646c13230800000000000000
+      internalID: 3616889982256618805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_112
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 19
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8a2b8eaed3fe50800000000000000
+      internalID: 6842057100146413381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_113
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 19
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba3b1f8a0089ff0800000000000000
+      internalID: -29272671968318609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd_114
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 146
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488cea165f74f4f30800000000000000
+      internalID: 4561944066781005956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
